@@ -237,6 +237,14 @@ body.dark-mode footer h3 {
 body.light-mode footer h3 {
     color: black;
 }
+.version-text {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    font-size: 12px;
+    color: white;
+    z-index: 1000;
+}
 
 #moon,
 #sun {
